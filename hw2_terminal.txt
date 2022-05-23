@@ -30,10 +30,10 @@ Termial. HW_2
 
 8. Через cat сделать текстовый файл tf_3.txt  c любыми строками
 	cat > tf_3.txt
-	Eu eam dolores
-	lobortis percipitur
-	quo te equidem
-	deleniti disputando
+	In past im semipro in dota2
+	that was great times in my life
+	but now im crying what valve do with my game
+	thats so sad
 
 9. Через cat добавить в текстовый файл tf_3.txt строку “the second 2”
 	cat >> tf_3.txt
@@ -62,21 +62,21 @@ Termial. HW_2
 
 14. Сделать текстовый файл tf_4.txt в котором будет 15 строк.
 	cat > tf_4.txt
-	Eam
-	id
-	posse
-	dictas
-	voluptua
-	veniam
-	laoreet
-	oportere
-	no
-	mea
-	quis
-	regione
-	suscipiantur
-	mea
-	an
+	I think
+	Dota2 
+	the greatest game 
+	in cybersport
+	industry
+	bcz this game
+	have every year
+	tournament named 
+	The International
+	at this holidays of dota2
+	prizepool is 40kk $$$
+	at the 2022 moment
+	16 top teams
+	fighting for this $$$
+	and this so crazy
 	ctrl + D
 
 15. Сделать текстовый файл tF_5.txt в котором будет 13 строк.
